@@ -20,7 +20,7 @@ The workshop provides the audiences with an overview of the Github Copilot servi
 |9:15 AM  | Copilot Feature Overview |
 |9:45 AM  | Copilot Demo |
 |10:15 AM | Q/A |
-|11:45 AM | Wrap and Next Steps |
+|11:00 AM | Wrap and Next Steps |
 
 ## Copilot Demo Walkthrough
 Assume we're tasked with creating a REST API that takes in an order for our product, prepares it for additional processing such as db persistence, etc, then responds to the caller with a valid response.  Using Copilot:
