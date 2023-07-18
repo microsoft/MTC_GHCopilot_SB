@@ -1,6 +1,6 @@
 # MTC Github Copilot Strategy Briefing / Demo
 
-This is content guides a presenter through an approximately two hour strategy briefing on Github Copilot delivered in a 1-1 or 1-few context.
+This content guides a presenter through an approximately two hour strategy briefing on Github Copilot delivered in a 1-1 or 1-few context.
 
 ## Content Overview
 - [Sample Agenda](./resources/agenda-mtc-1m.docx)
