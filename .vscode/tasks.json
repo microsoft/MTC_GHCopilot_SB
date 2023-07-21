@@ -12,7 +12,7 @@
 			"type": "process",
 			"problemMatcher": "$msCompile",
 			"options": {
-				"cwd": "${workspaceFolder}/src"
+				"cwd": "${workspaceFolder}/src\\demo\\basic"
 			}
 		},
 		{
@@ -31,7 +31,7 @@
 			},
 			"problemMatcher": "$msCompile",
 			"options": {
-				"cwd": "${workspaceFolder}/src"
+				"cwd": "${workspaceFolder}/src\\demo\\basic"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "process",
 			"problemMatcher": "$msCompile",
 			"options": {
-				"cwd": "${workspaceFolder}/src"
+				"cwd": "${workspaceFolder}/src\\demo\\basic"
 			}
 		},
 		{
@@ -64,14 +64,14 @@
 			"dependsOn": "clean release (functions)",
 			"problemMatcher": "$msCompile",
 			"options": {
-				"cwd": "${workspaceFolder}/src"
+				"cwd": "${workspaceFolder}/src\\demo\\basic"
 			}
 		},
 		{
 			"type": "func",
 			"dependsOn": "build (functions)",
 			"options": {
-				"cwd": "${workspaceFolder}/src/bin/Debug/net6.0"
+				"cwd": "${workspaceFolder}/src\\demo\\basic/bin/Debug/net6.0"
 			},
 			"command": "host start",
 			"isBackground": true,
