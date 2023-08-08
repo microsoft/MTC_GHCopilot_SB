@@ -41,6 +41,8 @@ Use the new method to convert the payload:
 
 Return an Order Recieved message to the caller containing the original payload, this time using Copilot Chat companion:
 
+    // return a JSON string response containing the message "Order Received" and names and values of the order
+
 ![Create response](./media/basicDemo/6_codegen_response.png)
 
 Assume that a change was introduced to the code that boke its functionality.  Fix this by highlighting the code, through the Copilot conext menu, choose Fix:
