@@ -4,6 +4,8 @@ Assume we're tasked with creating a REST API that takes in an order for our prod
 * Code completion
 * Test case generation
 * Code documentation
+* Explain code
+
 
 We'll implement a REST handler, serialize the payload into an object, respond to the caller with valid response, write test cases and document the fuctionality as well as use Copilot to fix any problems along the way.
 
@@ -71,6 +73,13 @@ Documentation is created:
 
 ![Documentation created](./media/basicDemo/12_docgen2.png)
 
-### 4. Optionally test the code to demonstrate end-to-end functionality
+### 4. Using the chat window, generarate an explanation for the code
+
+![Explain](./media/basicDemo/14_explain1.png)
+
+![Explain result](./media/basicDemo/15_explain2.png)
+
+
+### 5. Optionally test the code to demonstrate end-to-end functionality
 
 ![End-to-End test](./media/basicDemo/13_testrun.png)
