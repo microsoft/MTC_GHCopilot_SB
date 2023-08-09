@@ -80,6 +80,6 @@ Documentation is created:
 ![Explain result](./media/basicDemo/15_explain2.png)
 
 
-### 4. Optionally test the code to demonstrate end-to-end functionality
+### 5. Optionally test the code to demonstrate end-to-end functionality
 
 ![End-to-End test](./media/basicDemo/13_testrun.png)
