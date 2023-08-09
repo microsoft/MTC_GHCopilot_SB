@@ -24,7 +24,7 @@ The workshop provides the audiences with an overview of the GitHub Copilot servi
 
 ## Copilot Demos / Walkthroughs
 
-- ### [Basic Visual Studio Code with GitHub Copilot Demo](./basicDemo.md) - Simple order order processor API.
+- ### [Basic Visual Studio Code with GitHub Copilot Demo](./basicDemo.md) - Simple order processor API.
 - ### [Visual Studio with GitHub Copilot Demo](./src/demo/visualstudio/VisualStudioDemo.md) - Visual Studio Blazor Weather App.
 
 - ### GitHub Copilot Advanced Scenerios - Coming Soon
