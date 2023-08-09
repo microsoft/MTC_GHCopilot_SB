@@ -27,6 +27,11 @@ The workshop provides the audiences with an overview of the GitHub Copilot servi
 ### [Basic Visual Studio Code with GitHub Copilot Demo](./basicDemo.md) - Simple order order processor API.
 ### [Visual Studio with GitHub Copilot Demo](./src/demo/visualstudio/VisualStudioDemo.md) - Visual Studio Blazor Weather App.
 
+### GitHub Copilot for APIM Policy Creation Demo - Coming Soon
+### GitHub Copilot Code Referencing Demo - Coming Soon
+### 8 things you didn’t know you could do with GitHub Copilot - Coming Soon 
+
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
