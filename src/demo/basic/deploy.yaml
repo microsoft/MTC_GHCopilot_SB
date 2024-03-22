@@ -1,0 +1,26 @@
+name: Azure Function App Deployment
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Azure CLI
+        uses: azure/login@v1
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+
+      - name: Deploy to Azure Function App
+        uses: azure/webapps-deploy@v2
+        with:
+          app-name: <your-function-app-name>
+          slot-name: <your-slot-name> # Optional, remove this line if not using slots
+          publish-profile: ${{ secrets.AZURE_FUNCTION_APP_PUBLISH_PROFILE }}
