@@ -1,3 +1,5 @@
+//Prompt: create a bicep deployment that creates a function app
+
 param functionAppName string
 param location string = 'westus'
 

@@ -1,3 +1,5 @@
+<!--Prompt: create an APIM policy to set the User-GUID and Correlation-ID headers -->
+
 <policies>
     <inbound>
         <!-- Add your inbound policy logic here -->

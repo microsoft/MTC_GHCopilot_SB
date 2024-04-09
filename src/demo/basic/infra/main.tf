@@ -1,3 +1,7 @@
+//Prompt: create a resource group
+
+//Prompt: create a vm
+
 resource "azurerm_resource_group" "example" {
   name     = "my-resource-group"
   location = "West US"

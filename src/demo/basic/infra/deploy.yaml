@@ -1,3 +1,5 @@
+#Prompt: create a yaml github workflow file to deploy the function app to Azure
+
 name: Azure Function App Deployment
 
 on:
